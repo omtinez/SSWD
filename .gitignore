@@ -1,2 +1,4 @@
 env
 ffmpeg.exe
+*.mp4
+*.jpg
